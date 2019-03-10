@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/CmsServer.js"],"names":["CmsServer","constructor","cms","express"],"mappings":";;;;;;;AAAe,MAAMA,SAAN,CAAgB;AAC3BC,EAAAA,WAAW,CAAC;AAAEC,IAAAA,GAAF;AAAOC,IAAAA;AAAP,GAAD,EAAmB,CAE7B;;AAH0B","sourcesContent":["export default class CmsServer {\n    constructor({ cms, express }) {\n\n    }\n}"],"file":"CmsServer.js"}

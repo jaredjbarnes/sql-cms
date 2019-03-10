@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/Cms.js"],"names":["Cms","constructor","cmsDatabase"],"mappings":";;;;;;;AAAe,MAAMA,GAAN,CAAU;AACrBC,EAAAA,WAAW,CAACC,WAAD,EAAc,CAExB;;AAHoB","sourcesContent":["export default class Cms {\n    constructor(cmsDatabase) {\n        \n    }\n}"],"file":"Cms.js"}
